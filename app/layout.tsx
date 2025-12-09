@@ -31,7 +31,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <main className='flex flex-col gap-16'>
+        <main className='flex flex-col'>
           <GlobalContext>
             <ClientInitializer />
             <Navbar />
