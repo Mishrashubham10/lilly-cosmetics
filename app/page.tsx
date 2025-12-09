@@ -120,7 +120,7 @@ export default function HomePage() {
                     <p className="text-sm text-muted-foreground">
                       Velvet Matte Lipstick
                     </p>
-                    <p className="text-primary font-semibold">$28.00</p>
+                    <p className="text-primary font-semibold">₹299</p>
                   </div>
                 </div>
               </div>
