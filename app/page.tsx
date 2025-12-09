@@ -8,7 +8,7 @@ import Link from 'next/link';
 
 export default function HomePage() {
   return (
-    <div className="flex flex-col gap-8 mt-12">
+    <div className="flex flex-col gap-8 mt-24">
       <section className="relative min-h-[90vh] flex items-center justify-center bg-gradient-hero overflow-hidden">
         {/* Background Elements */}
         <div className="absolute inset-0">
