@@ -29,7 +29,7 @@ export const Categories = () => {
             {categories.map((p, index) => (
               <Link
                 key={p.name}
-                href={p.id}
+                href={`/products/${p.id}`}
                 className="group relative aspect-3/4 rounded-2xl overflow-hidden animate-fade-up"
                 style={{ animationDelay: `${index * 0.1}s` }}
               >

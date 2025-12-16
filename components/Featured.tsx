@@ -23,7 +23,7 @@ export const Featured = () => {
               Featured Products
             </h2>
           </div>
-          <Link href="/shop">
+          <Link href="/products">
             <Button variant="outline">
               View All Products
               <ArrowRight className="h-4 w-4" />

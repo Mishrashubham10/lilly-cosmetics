@@ -5,7 +5,7 @@ export const products: Product[] = [
     id: '1',
     name: 'Hydrating Face Moisturizer',
     price: 799,
-    image: 'https://images.pexels.com/photos/3183108/pexels-photo-3183108.jpeg',
+    image: 'https://images.pexels.com/photos/9475732/pexels-photo-9475732.jpeg',
     description:
       'Lightweight daily moisturizer that hydrates and nourishes the skin for a smooth, glowing complexion.',
     productDetails: {
@@ -52,7 +52,7 @@ export const products: Product[] = [
     id: '3',
     name: 'Nourishing Lip Balm',
     price: 299,
-    image: 'https://images.pexels.com/photos/7031710/pexels-photo-7031710.jpeg',
+    image: 'https://images.pexels.com/photos/7453896/pexels-photo-7453896.jpeg',
     description:
       'Moisturizing lip balm enriched with shea butter and vitamin E.',
     productDetails: {
@@ -71,7 +71,7 @@ export const products: Product[] = [
     id: '4',
     name: 'Volumizing Mascara',
     price: 599,
-    image: 'https://images.pexels.com/photos/3373747/pexels-photo-3373747.jpeg',
+    image: 'https://images.pexels.com/photos/4938458/pexels-photo-4938458.jpeg',
     description:
       'High-volume mascara with a smudge-proof formula for fuller-looking lashes.',
     productDetails: {
@@ -146,7 +146,7 @@ export const products: Product[] = [
     id: '8',
     name: 'Aloe Vera Face Wash',
     price: 349,
-    image: 'https://images.pexels.com/photos/4124855/pexels-photo-4124855.jpeg',
+    image: 'https://images.pexels.com/photos/4612142/pexels-photo-4612142.jpeg',
     description:
       'Refreshing gel-based face wash that gently cleanses while soothing the skin.',
     productDetails: {
@@ -165,7 +165,7 @@ export const products: Product[] = [
     id: '9',
     name: 'Charcoal Peel-Off Mask',
     price: 599,
-    image: 'https://images.pexels.com/photos/3762871/pexels-photo-3762871.jpeg',
+    image: 'https://images.pexels.com/photos/6977399/pexels-photo-6977399.jpeg',
     description:
       'Deep-cleansing charcoal mask that removes blackheads and impurities.',
     productDetails: {
@@ -222,7 +222,8 @@ export const products: Product[] = [
     id: '12',
     name: 'Vitamin C Face Serum',
     price: 999,
-    image: 'https://images.pexels.com/photos/3865798/pexels-photo-3865798.jpeg',
+    image:
+      'https://images.pexels.com/photos/28255125/pexels-photo-28255125.jpeg',
     description:
       'Brightening serum that reduces dark spots and enhances skin radiance.',
     productDetails: {
@@ -260,7 +261,7 @@ export const products: Product[] = [
     name: 'Aloe Vera Gel',
     price: 399,
     image:
-      'https://images.pexels.com/photos/16159977/pexels-photo-16159977.jpeg',
+      'https://images.pexels.com/photos/18441532/pexels-photo-18441532.jpeg',
     description:
       'Multipurpose aloe vera gel that soothes and cools skin instantly.',
     productDetails: {
@@ -410,7 +411,8 @@ export const products: Product[] = [
     id: '22',
     name: 'Perfume Mist',
     price: 899,
-    image: 'https://images.pexels.com/photos/3266706/pexels-photo-3266706.jpeg',
+    image:
+      'https://images.pexels.com/photos/31095143/pexels-photo-31095143.jpeg',
     description: 'Refreshing fragrance mist with long-lasting floral notes.',
     productDetails: {
       material: 'Alcohol Base, Essential Oils',
@@ -577,7 +579,7 @@ export const products: Product[] = [
     id: '31',
     name: 'Makeup Remover Wipes',
     price: 299,
-    image: 'https://images.pexels.com/photos/3865688/pexels-photo-3865688.jpeg',
+    image: 'https://images.pexels.com/photos/4058767/pexels-photo-4058767.jpeg',
     description: 'Soft wipes infused with aloe that remove waterproof makeup.',
     productDetails: {
       material: 'Aloe Vera, Vitamin E',

@@ -9,15 +9,15 @@ export const Footer = () => {
   const footerLinks = {
     shop: [
       { name: 'All Products', path: '/products' },
-      { name: 'New Arrivals', path: '/product?category=new' },
-      { name: 'Best Sellers', path: '/product?category=bestsellers' },
-      { name: 'Gift Sets', path: '/product?category=gifts' },
+      { name: 'New Arrivals', path: '/new-arrivals' },
+      { name: 'Best Sellers', path: '/best-sellers' },
+      // { name: 'Gift Sets', path: '/product?category=gifts' },
     ],
     company: [
       { name: 'About Us', path: '/about' },
       { name: 'Contact', path: '/contact' },
       { name: 'Careers', path: '/careers' },
-      { name: 'Press', path: '/press' },
+      // { name: 'Press', path: '/press' },
     ],
     support: [
       { name: 'FAQ', path: '/faq' },
@@ -28,7 +28,7 @@ export const Footer = () => {
     legal: [
       { name: 'Privacy Policy', path: '/privacy-policy' },
       { name: 'Terms of Service', path: '/terms-of-service' },
-      { name: 'Cookie Policy', path: '/cookie-policy' },
+      // { name: 'Cookie Policy', path: '/cookie-policy' },
     ],
   };
 

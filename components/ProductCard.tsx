@@ -5,8 +5,10 @@ import { useState } from 'react';
 import { Button } from './ui/button';
 import { Heart, ShoppingBag, Star } from 'lucide-react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 interface ProductCardProps {
+  id: string;
   name: string;
   category: string;
   price: number;
@@ -18,6 +20,7 @@ interface ProductCardProps {
 }
 
 export const ProductCard = ({
+  id,
   name,
   category,
   price,
@@ -99,10 +102,12 @@ export const ProductCard = ({
             isHovered ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
           )}
         >
-          <Button variant="secondary" className="w-full">
-            <ShoppingBag className="h-4 w-4" />
-            Add to Bag
-          </Button>
+          <Link href={`/products/${id}`}>
+            <Button variant="secondary" className="w-full">
+              <ShoppingBag className="h-4 w-4" />
+              Add to Bag
+            </Button>
+          </Link>
         </div>
       </div>
 
