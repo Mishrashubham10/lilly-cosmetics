@@ -46,7 +46,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Visit Us',
-    content: 'Office No.611, 6th Floor, New Linkroad',
+    content: 'Office No.611, 6th Floor, Crystal Plaza, New Linkroad',
     subtitle: 'Infinity Mall, Andheri, Mumbai (400053)',
   },
   {
@@ -90,7 +90,7 @@ export default function ContactPage() {
             <p className="text-primary text-sm uppercase tracking-widest mb-2">
               Get In Touch
             </p>
-            <h1 className="font-display text-4xl md:text-5xl font-semibold text-foreground mb-4">
+            <h1 className="font-display text-4xl md:text-5xl font-semibold text-primary mb-4">
               Contact Us
             </h1>
             <p className="text-muted-foreground max-w-xl mx-auto">

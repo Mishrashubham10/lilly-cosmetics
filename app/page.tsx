@@ -26,7 +26,7 @@ export default function HomePage() {
               <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-primary/30 bg-primary/5 backdrop-blur-sm animate-fade-up">
                 <Sparkles className="h-4 w-4 text-primary" />
                 <span className="text-sm text-primary">
-                  New Collection 2024
+                  New Collection 2027
                 </span>
               </div>
 
@@ -52,13 +52,13 @@ export default function HomePage() {
               >
                 <Link href="/products">
                   <Button variant="secondary" size="lg">
-                    Shop Collection
+                    Shop Now
                     <ArrowRight className="h-5 w-5" />
                   </Button>
                 </Link>
                 <Link href="/about">
                   <Button variant="outline" size="lg">
-                    Our Story
+                    Learn More
                   </Button>
                 </Link>
               </div>

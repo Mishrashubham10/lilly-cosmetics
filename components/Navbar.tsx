@@ -32,10 +32,10 @@ export const Navbar = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <span className="font-display text-2xl font-semibold text-gradient">
+            <span className="font-display text-2xl font-semibold text-primary">
               Lilly
             </span>
-            <span className="font-display text-2xl text-foreground/80">
+            <span className="font-display text-2xl text-primary">
               Cosmetics
             </span>
           </Link>
