@@ -67,7 +67,7 @@ export default function ShippingPolicyPage() {
             and delivery times vary by destination:
           </p>
           <ul className="list-disc pl-6 space-y-2">
-            <li>Canada: $15.99 (7-14 business days)</li>
+            <li>Canada: ₹599 (7-14 business days)</li>
             <li>United Kingdom: ₹469 (10-14 business days)</li>
             <li>European Union: ₹799 (10-18 business days)</li>
             <li>Australia: ₹949 (14-21 business days)</li>

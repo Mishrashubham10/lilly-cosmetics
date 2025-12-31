@@ -46,7 +46,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Visit Us',
-    content: 'Office No.611, 6th Floor, Crystal Plaza, New Linkroad',
+    content: 'Office No. E-611, 6th Floor, Crystal Plaza, New Linkroad',
     subtitle: 'Infinity Mall, Andheri, Mumbai (400053)',
   },
   {
