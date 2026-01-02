@@ -116,7 +116,7 @@ export default function AboutPage() {
                 'To create beauty products that not only look luxurious but are formulated with integrity—for you and for our planet.'
               }
             </h2>
-            <p className="text-muted-foreground">— Lily Chen, Founder & CEO</p>
+            <p className="text-muted-foreground">— Lily Cosmetics, Founder & CEO</p>
           </div>
         </div>
       </section>
