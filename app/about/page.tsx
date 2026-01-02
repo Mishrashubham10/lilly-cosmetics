@@ -43,12 +43,12 @@ export default function AboutPage() {
                 <span className="block text-gradient">Celebrates You</span>
               </h1>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Founded in 2020, Lilly Cosmetics was born from a simple belief:
+                Founded in 2025, Lilly Cosmetics was born from a simple belief:
                 everyone deserves access to luxurious, high-quality cosmetics
                 that enhance their natural beauty without compromise.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                Our founder, Lily Chen, started this journey in her small
+                Our founder, Lily Cosmetics, started this journey in her small
                 apartment, handcrafting lipsticks that combined the richness of
                 professional-grade products with clean, ethical ingredients.
                 Today, we&apos;ve grown into a beloved beauty brand, but our
